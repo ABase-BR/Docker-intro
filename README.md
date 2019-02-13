@@ -46,6 +46,7 @@ Aqui podemos ver algumas referencias usadas.
 - [Referencias]: <referencias.md>
 
 
+[Referencias]: 
 [O que é o Docker]: <1-O-que-é-o-Docker>
 [Vantagens]: <2-Vantagens>
 [Porque eu devo usar o Docker]: <3-Porque-eu-devo-usar-o-Docker>
